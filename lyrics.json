@@ -306,7 +306,7 @@
 ,
 {
   "category": "አምላክ",
-  "subcategory": "ስላሴ",
+  "subcategory": "ሥላሴ",
   "type": "long",
   "title": "ሀይሌ ብርታቴ",
   "singer": "Unknown",
@@ -314,7 +314,7 @@
 }
 ,
 {
-  "category": "አምላክ",
+  "category": "ቅዱሳን",
   "subcategory": "ማርያም",
   "type": "long",
   "title": "ለማርያም",
@@ -330,6 +330,7 @@
   
    
 ]
+
 
 
 
